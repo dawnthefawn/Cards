@@ -4,4 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/HelloWorld.unity
+    guid: 6aa5192570c0d004ab7e4fdd5c4cd0bd
